@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LocationTrackerApp</string>
+    <string name="vehicle_icon">Vehicle Icon</string>
+
+    <!-- Network Errors-->
+    <string name="networkError">Oh! You are not connected to a wifi or cellular data network. Please connect and try again</string>
+    <string name="unknownError">Something went wrong!</string>
+
+    <string name="requestTimeOutError">Oooops! We couldn’t capture your request in time. Please try again.</string>
+
+    <string name="responseMalformedJson">Oops! We hit an error. Try again later.</string>
+
+    <string name="locate">Locate</string>
+</resources>
