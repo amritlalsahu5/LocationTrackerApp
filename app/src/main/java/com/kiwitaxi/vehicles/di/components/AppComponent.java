@@ -27,7 +27,7 @@ import dagger.android.AndroidInjectionModule;
 public interface AppComponent {
 
     @Component.Builder
-    interface Builder {
+    interface Builder {//
         @BindsInstance
         Builder application(Application application);
 
